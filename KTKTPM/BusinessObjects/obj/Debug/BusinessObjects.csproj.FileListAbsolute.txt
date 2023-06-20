@@ -1,0 +1,4 @@
+T:\KTKTPM\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+T:\KTKTPM\BusinessObjects\obj\Debug\BusinessObjects.Properties.Resources.resources
+T:\KTKTPM\BusinessObjects\obj\Debug\BusinessObjects.csproj.GenerateResource.cache
+T:\KTKTPM\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache

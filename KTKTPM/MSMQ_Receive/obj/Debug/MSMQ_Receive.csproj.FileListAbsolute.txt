@@ -1,0 +1,4 @@
+T:\KTKTPM\MSMQ_Receive\obj\Debug\MSMQ_Receive.csprojAssemblyReference.cache
+T:\KTKTPM\MSMQ_Receive\obj\Debug\MSMQ_Receive.Properties.Resources.resources
+T:\KTKTPM\MSMQ_Receive\obj\Debug\MSMQ_Receive.csproj.GenerateResource.cache
+T:\KTKTPM\MSMQ_Receive\obj\Debug\MSMQ_Receive.csproj.CoreCompileInputs.cache

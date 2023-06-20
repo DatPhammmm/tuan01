@@ -1,0 +1,3 @@
+T:\KTKTPM\MSMQ_Receive\obj\Release\MSMQ_Receive.Properties.Resources.resources
+T:\KTKTPM\MSMQ_Receive\obj\Release\MSMQ_Receive.csproj.GenerateResource.cache
+T:\KTKTPM\MSMQ_Receive\obj\Release\MSMQ_Receive.csproj.CoreCompileInputs.cache
